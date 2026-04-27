@@ -16,7 +16,7 @@
 
 > I don't just write code — I architect, manage, and own technology end to end.
 
-I'm **Kyle Hanger**, Director of **Elestack Digital Solutions** — a senior technical partner firm based in South Africa. I work with founders and businesses that are serious about building, taking full ownership of their platform from architecture through to post-launch management.
+I'm **Kyle Hanger**, Director of **Elestack Digital Solutions** — a CIPC-registered senior technical partner firm built in South Africa, for South Africa and beyond. I work with founders and businesses that are serious about building, taking full ownership of their platform from architecture through to post-launch management.
 
 I'm not a freelancer. I'm the technical co-pilot that stays in the room.
 
@@ -34,13 +34,10 @@ const elestack = {
   frameworks:   ["React", "React Native", "Node.js", "Express", ".NET"],
   databases:    ["PostgreSQL", "Redis", "MongoDB"],
   compliance:   ["HIPAA", "GDPR", "POPIA"],
-  currentBuild: "AI Workflow Automation Engine (AWAE) 🤖"
+  currentBuild: "AI Workflow Automation Engine (AWAE) 🤖",
+  offTheKeyboard: ["MTB 🚵", "Padel 🎾"]
 }
 ```
-
----
-
-
 
 ---
 
@@ -91,7 +88,6 @@ Trigger → AI Decision Node → Action → Profit
 | GDPR | ✅ Compliant Architecture |
 | POPIA | ✅ Compliant Architecture |
 | OWASP Top 10 | ✅ Applied on every build |
-| SOC 2 | 🔄 In progress |
 
 </div>
 
@@ -112,7 +108,65 @@ Trigger → AI Decision Node → Action → Profit
 
 ---
 
+## 🇿🇦 Built in South Africa
 
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│   🏢  CIPC Registered — Elestack Digital Solutions (Pty) Ltd   │
+│   ⚖️  SA-compliant contracts — POPIA, NCA, Companies Act       │
+│   💳  SA-native payment integrations — Payfast & Paystack       │
+│   📦  Local logistics integrations — The Courier Guy            │
+│   🧾  SA accounting integrations — Sage & Xero                 │
+│   📡  Multi-cloud deployed with SA data residency options       │
+│   🌍  Built here. Scales everywhere.                            │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+Most platforms are built for the US market and bolted onto SA businesses.
+Everything Elestack builds is architected for the SA market first — local payment rails, local compliance, local infrastructure — then scaled globally.
+
+---
+
+## 🤝 Open To
+
+<div align="center">
+
+| Opportunity | Details |
+|:---|:---|
+| 🏗️ **Technical Partnerships** | Co-building products with founders who need a technical co-founder without the equity |
+| 🔍 **Security Audits** | Full platform security reviews — OWASP, penetration testing, compliance gap analysis |
+| 🧠 **Technical Advisory** | CTO-as-a-service for early-stage startups that need senior technical direction |
+| 💡 **Platform Builds** | Full-stack builds from zero to production — React, Node.js, cloud infrastructure |
+| 🤖 **AI Integration** | Embedding AI into existing products — workflow automation, multi-channel AI agents |
+| 🌍 **International Projects** | Remote-first engagements with international startups looking for SA-based technical talent |
+
+> 📬 Reach out: **kylehanger@elestackdigitalsolutions.co.za**
+
+</div>
+
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg"/>
+</picture>
+
+</div>
+
+---
+
+## 🚵 Off The Keyboard
+
+When I'm not building platforms I'm either on a MTB trail or on the padel court. Both require the same thing as good software — sharp decisions, good lines, and knowing when to push hard and when to hold back.
+
+---
 
 ## 🌍 Let's Connect
 
@@ -131,17 +185,3 @@ Trigger → AI Decision Node → Action → Profit
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1A3A5C&height=120&section=footer&text=We%20build%20the%20engine.%20You%20drive%20the%20business.&fontSize=16&fontColor=2E75B6&fontAlignY=65" width="100%"/>
 
 </div>
-<!--
-**wolf101K/wolf101k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
