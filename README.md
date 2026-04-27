@@ -112,22 +112,7 @@ Trigger → AI Decision Node → Action → Profit
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0F1C&title_color=2E75B6&icon_color=F0A500&text_color=ffffff" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0A0F1C&ring=2E75B6&fire=F0A500&currStreakLabel=2E75B6" width="48%"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0F1C&title_color=2E75B6&text_color=ffffff" width="40%"/>
-
-</div>
-
----
 
 ## 🌍 Let's Connect
 
