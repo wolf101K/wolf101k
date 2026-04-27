@@ -40,42 +40,7 @@ const elestack = {
 
 ---
 
-## 🚀 Active Engagements
 
-<table>
-<tr>
-<td width="33%" align="center">
-
-### 🤖 OakDesk
-**AI Reception Systems**
-
-AI-powered multi-channel business communications platform — voice, WhatsApp, Facebook, Instagram, CRM & booking.
-
-`Node.js` `React` `Twilio` `OpenAI` `PostgreSQL`
-
-</td>
-<td width="33%" align="center">
-
-### 🩺 Ovulae Health
-**Women's Health Platform**
-
-Reproductive health platform — security audit, full rebuild, and ongoing platform management.
-
-`React` `Node.js` `AWS` `HIPAA Compliant`
-
-</td>
-<td width="33%" align="center">
-
-### 🎮 Dreamchest Studios
-**Indie Game Studio**
-
-Studio CTO — managing developers, pipeline, infrastructure, and releases across all titles.
-
-`Unity` `CI/CD` `Steam` `App Store`
-
-</td>
-</tr>
-</table>
 
 ---
 
