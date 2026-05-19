@@ -16,7 +16,7 @@
 
 > I don't just write code — I architect, manage, and own technology end to end.
 
-I'm **Kyle Hanger**, Director of **Elestack Digital Solutions** — a CIPC-registered senior technical partner firm built in South Africa, for South Africa and beyond. I work with founders and businesses that are serious about building, taking full ownership of their platform from architecture through to post-launch management.
+I'm **Kyle Hanger**, Director of **Elestack Digital Solutions** — a senior technical partner firm built in South Africa, for South Africa and beyond. I work with founders and businesses that are serious about building, taking full ownership of their platform from architecture through to post-launch management.
 
 I'm not a freelancer. I'm the technical co-pilot that stays in the room.
 
